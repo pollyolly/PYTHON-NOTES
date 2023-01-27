@@ -5,3 +5,5 @@
 [Chatterbot](https://chatterbot.readthedocs.io/)
 
 [Python Tutorials to Advanced](https://www.youtube.com/@patloeber)
+
+[11 Tips Writing Better Python Code](https://www.youtube.com/watch?v=8OKTAedgFYg)
