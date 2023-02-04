@@ -1,5 +1,7 @@
 # PYTHON-NOTES
 
+[OPENCV GUIDES AND TUTORIALS](https://pyimagesearch.com/opencv-tutorials-resources-guides/)
+
 [OPENCV TUTORIAL](https://youtu.be/29vWJ1c9LX8)
 
 [Chatterbot](https://chatterbot.readthedocs.io/)
