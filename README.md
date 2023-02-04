@@ -4,6 +4,8 @@
 
 [OPENCV TUTORIAL](https://youtu.be/29vWJ1c9LX8)
 
+[OBJECT DETECTION](https://www.youtube.com/watch?v=O3b8lVF93jU)
+
 [Chatterbot](https://chatterbot.readthedocs.io/)
 
 [Python Tutorials to Advanced](https://www.youtube.com/@patloeber)
