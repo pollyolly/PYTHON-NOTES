@@ -11,3 +11,5 @@
 [Python Tutorials to Advanced](https://www.youtube.com/@patloeber)
 
 [11 Tips Writing Better Python Code](https://www.youtube.com/watch?v=8OKTAedgFYg)
+
+[SOLID](https://dev.to/welel/solid-principles-with-examples-in-python-mk)
