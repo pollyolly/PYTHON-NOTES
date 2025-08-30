@@ -1,5 +1,11 @@
 # PYTHON-NOTES
 
+### Python Packages Official Community
+
+[Python Packages Official Community](https://pypi.org/search/)
+
+### Tutorials
+
 [OPENCV GUIDES AND TUTORIALS](https://pyimagesearch.com/opencv-tutorials-resources-guides/)
 
 [OPENCV TUTORIAL](https://youtu.be/29vWJ1c9LX8)
