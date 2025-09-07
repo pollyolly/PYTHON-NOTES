@@ -1,5 +1,26 @@
 # PYTHON-NOTES
-
+### Python Virtual Environment
+```bash
+#By default Python 3 above have "venv" Virtual Environment
+$python3 -m venv tkinter_project or pyqt_project
+```
+```bash
+$cd tkinter_project/bin/
+$source activate # This will activate the Virtual Environment
+```
+```bash
+#This is your Virtual Environment
+$(tkinter_project) deguzman@jaybee-MacBook-Air bin %
+```
+Install a Package
+```bash
+$pip install package_name
+```
+To remove the virtual environment
+```bash
+$deactivate
+$rm -r tkinter_project
+```
 ### Python Packages Official Community
 
 [Python Packages Official Community](https://pypi.org/search/)
